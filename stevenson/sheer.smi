@@ -1,0 +1,10 @@
+<smil>
+	<head>
+	</head>
+
+	<body>
+		<par>
+			<video src="http://libweb.princeton.edu:2003/libraries/firestone/rbsc/mudd/online_ex/stevenson/real/sheer.rm" region="sheer_video_region"/>
+		</par>
+  	</body>
+</smil>

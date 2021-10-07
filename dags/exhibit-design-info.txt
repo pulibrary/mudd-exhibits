@@ -1,0 +1,30 @@
+Exhibit was created by Melissa Johnson and Rachel Ban, August 2001
+The site uses server side includes for the page colors and the page footers.
+
+Colors Used on the site are:
+
+Background color - #333333
+
+HTML Page Text
+  text="#FFFFFF" 
+  link="CC9933" 
+  vlink="#999999" 
+  alink="#999999"
+
+Text Images  (created in Photoshop 6.0)
+- blue #6699CC
+- red  #CC6666
+- gold #D9A53F
+- background #333333
+
+Fonts for Text Images
+   Title - Garmond KursivHalbfett 10 pt
+   Main Navigation - Garmond KursivHalbfett 6 pt
+   Sub-Navigation - Garamond Bold 5pt
+
+
+Rollover code was created by Fireworks 4.0 and the site was coded in Dreamweaver 4.0.
+
+
+
+

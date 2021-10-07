@@ -1,0 +1,11 @@
+<smil>
+	<head>
+	</head>
+
+	<body>
+		<par>
+			<video src="real/hbomb.rm" region="hbomb_video_region"/>
+			<video src="http://libweb.princeton.edu:2003/libraries/firestone/rbsc/mudd/online_ex/stevenson/real/hbomb.rm" region="video_region"/>
+		</par>	
+  	</body>
+</smil>

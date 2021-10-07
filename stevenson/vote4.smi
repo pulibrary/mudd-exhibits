@@ -1,0 +1,10 @@
+<smil>
+	<head>
+	</head>
+
+	<body>
+		<par>
+			<video src="http://libweb.princeton.edu/libraries/firestone/rbsc/mudd/online_ex/stevenson/real/vote4.rm" region="vote4_video_region"/>
+		</par>
+  	</body>
+</smil>

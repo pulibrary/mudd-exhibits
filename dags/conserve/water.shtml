@@ -1,0 +1,124 @@
+<html>
+<head>
+<title>Cased Images Exhibit - Princeton University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="The condition of the cased images before their preservation treatment was such that they could not be handled; with the completion of this project researchers may now study this valuable collection. This online exhibition highlights a small number of the images that were a part of this conservation project.">
+
+<meta name="keywords" content="daguerreotypes, ambrotypes, cased images, historical photgraph collection, early photography, exhibit, princeton university archives, student portraits, faculty portraits, conservation, photo conservation">
+<meta name="description" content="FW4 DW4 HTML">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body bgcolor="#333333" text="#FFFFFF" link="CC9933" vlink="#999999" alink="#999999" onLoad="MM_preloadImages('../dag/water_f2.jpg')"><center> <table width="700" border="0" cellspacing="0" cellpadding="0" align="left"> 
+<tr> 
+      <td colspan="4"><a href="dags/"><img src="../images/title.gif" width="600" height="50" align="absbottom" border="0" alt="Cased Images in the Princeton University Archives"></a></td>
+    <tr> 
+      <td colspan="4"> 
+        <table border="0" cellspacing="0" cellpadding="0" width="611" align=center>
+          <tr> 
+            <td align=center width="92"><a href="dags/intro.shtml"><img src="../images/intro-red.gif" align="absbottom" alt="introduction" border="0" width="92" height="25"></a></td>
+            <td align=center width="162"><a href="dags/photo/"><img src="../images/photo-red.gif" align="absbottom" alt="photographic processes" border="0" width="162" height="25"></a></td>
+            <td align=center width="91"><a
+href="../conserve/index.shtml"><img
+src="../images/conserve-blue.gif" align="absbottom" alt="conservation" border=0 width="179" height="27"></a></td>
+            <td align=center width="93"><a href="../bib.shtml"><img src="../images/bib-red.gif" align="absbottom" alt="bibliography" border=0 width="94" height="25"></a></td>
+          </tr>
+        </table>
+      </td>
+    <tr> 
+      <td align="center" colspan="4"> 
+        <table align=center width="257" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td align=center width="79"><a href="dry.shtml"><img src="../images/dry-red.gif" width="57" height="25" align="absbottom" alt="dry clean" border="0"></a></td>
+            <td align=center width="84"><a href="water.shtml"><img src="../images/water-blue.gif" width="67" height="25" align="absbottom" alt="water wash" border="0"></a></td>
+            <td align=center width="94"><a href="electro.shtml"><img src="../images/electro-red.gif" height="25" align="absbottom" alt="electro-cleaning" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr> 
+      <td height="915" colspan="4"> 
+        <table width="95%" border="0" cellspacing="10" cellpadding="0" align="center">
+          <tr valign="top"> 
+            <td colspan="2" height="156"> 
+              <h2>Water Wash Conservation Technique </h2>
+              <p> The second level of treatment on the daguerreotypes involved 
+                washing the plates in a bath of warm water. As with the dry cleaning 
+                treatment, the conservator first removed the daguerreotype plate 
+                from its housing and dusted the surface with compressed air. Once 
+                any loose surface debris was removed he then immersed the plate 
+                in warm deionized water, and then dried it through a succession 
+                of solvent baths. The cover glass was cleaned, the plate re-sealed 
+                and returned to its original enclosure or a new one was made. 
+              </p>
+            </td>
+          </tr>
+          <tr> 
+            <td width="53%" valign="middle" align="left"> 
+              <p>This daguerreotype was first slated to be washed only with a 
+                water wash, but after further examination the conservator noted 
+                a potentially active corrosion due to a prior treatment. As a 
+                result the plate was washed in a solution of dilute ammonium hydroxide; 
+                a process between the water wash and electro-cleaning. </p>
+     
+            </td>
+            <td align=center valign=top width="47%" height="342"> <a href="../dag/15AT.jpg"><img src="../dag/15ATsm.jpg" border="0" align="middle" width="250" height="325" alt="Portrait of Edward Blanchard Edgar (Class of 1835), 1857."></a>	
+              <br>
+          <font size="-1"><i>Portrait of Edward Blanchard Edgar (Class of 1835), 
+          1857. Quarter plate daguerreotype. Photographer unknown</i></font></td>
+          </tr>
+          <tr> 
+            
+            <td width="53%" align=center valign="top"> <a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('water_r1_c1','','../dag/water_f2.jpg',1)" ><img name="water_r1_c1" src="../dag/water.jpg" width="250" height="310" border="0" alt="Triple portrait of John Buhler (Class of 1846), Mary Meaux Reynolds, and Walter Turnbull Scott (Class of 1845). Ca. 1847" align="top"></a> 
+              <i><font size="-1"><a name="edgar">&nbsp;</a><br>
+              Triple portrait of John Buhler (Class of 1846), Mary Meaux Reynolds, 
+              and Walter Turnbull Scott (Class of 1845), ca. 1847. Half plate 
+              daguerreotype. Photographer: E. Jacobs, New Orleans</font></i></td>
+            <td align=left valign=middle width="47%"> 
+              
+              <p>Despite the incursion of corrosive material on this daguerreotype 
+                plate, the three individuals portrayed remain visible. Thus, rather 
+                than electro-clean the plate, it was washed with water. A comparison 
+                between the before and after images shows what a significant difference 
+                can be made by cleaning off surface debris and washing the cover 
+                glass. </p>
+              <p>Hover over the image of <a href="buhler.shtml">Buhler, Reynolds 
+                and Turnbull </a>with your mouse to see the image after treatment. 
+              </p>
+            </td>
+          </tr>
+          <tr> 
+            <td colspan="2" valign="top"> 
+              <p> </p>
+              <p align="center"><a href="electro.shtml">continue with electro-clean 
+                technique</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+</table></center>

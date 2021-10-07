@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Site Map - Cased Images Exhibit - Princeton University</title>
+
+<tr> 
+  <td colspan="4"> 
+    <table border="0" cellspacing="0" cellpadding="0" width="611" align=center>
+      <tr> 
+        <td align=center width="92"><a href="intro.shtml"><img src="images/intro-red.gif" align="absbottom" alt="introduction" border="0" width="92" height="25"></a></td>
+        <td align=center width="162"><a href="photo/index.shtml"><img
+src="images/photo-red.gif" align="absbottom" alt="photographic processes" border="0" width="162" height="25"></a></td>
+        <td align=center width="91"><a href="conserve/index.shtml"><img
+src="images/conserve-red.gif" align="absbottom" alt="conservation" border=0 width="179" height="27"></a></td>
+        <td align=center width="93"><a href="bib.shtml"><img src="images/bib-red.gif" align="absbottom" alt="bibliography" border=0 width="94" height="25"></a></td>
+      </tr>
+    </table>
+    
+  </td>
+<tr> 
+  <td align="center" colspan="4">&nbsp; </td>
+</tr>
+<tr> 
+  <td colspan="4"> 
+    <table width="90%" border="0" cellspacing="10" cellpadding="0" align="center">
+      <tr> 
+        <td align="left" valign="top"> 
+          <h2>Site Map</h2>
+          <dl> 
+            <dt><a href="index.shtml">Exhibit Home</a></dt>
+            <dd>&nbsp;</dd>
+            <dd><a href="intro.shtml">Introduction</a> 
+            <dt>&nbsp;</dt>
+            <dd>Photographic Processes<br>
+              <dl> 
+                <dd> <a href="photo/index.shtml">Daguerreotypes</a><br>
+                  <a href="photo/ambrotype.shtml">Ambrotypes</a><br>
+                  Composite Daguerreotypes - <a href="photo/smallcomposite.shtml">students</a>, 
+                  <a href="photo/faccomposite.shtml">faculty</a></dd>
+                <dt><br>
+                </dt>
+              </dl>
+              <a href="conserve/index.shtml">Conservation Techniques</a> 
+            <dd> 
+              <dl> 
+                <dd><a href="conserve/dry.shtml">Dry Clean Technique</a> 
+                  <dl> 
+                    <dd><a href="conserve/henry.shtml">Joseph Henry image commentary</a><br>
+                      <a href="conserve/maclean.shtml">Maclean image commentary</a></dd>
+                  </dl>
+                  <a href="conserve/water.shtml">Water Wash Technique</a><br>
+                  <dl> 
+                    <dd><a href="conserve/buhler.shtml">Buhler commentary</a></dd>
+                  </dl>
+                  <a href="conserve/electro.shtml">Electro-Clean Technique</a> 
+                  <dl> 
+                    <dd> <a href="conserve/afterclassof1853.shtml">Class of 1853 
+                      example</a></dd>
+                  </dL>
+                  <a href="conserve/discovery.shtml">Discoveries made during conservation</a></dd>
+              </dL>
+            </dd>
+          </dL>
+          <p><a href="notes.shtml">Viewing Notes</a><br>
+            <a href="bib.shtml">Bibliography</a><br>
+            <a href="credits.shtml">Credits</a><br>
+<a href="comments.shtml">Comments & Questions</a></p>
+        </td>
+      </tr>
+    </table>
+

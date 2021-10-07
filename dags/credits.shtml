@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Credits - Cased Images Exhibit - Princeton University</title>
+<!--#include virtual="/libraries/firestone/rbsc/mudd/online_ex/dags/include/header.html" -->
+
+    <tr> 
+      <td colspan="4"> 
+        <table border="0" cellspacing="0" cellpadding="0" width="611" align=center>
+          <tr> 
+            
+        <td align=center width="92"><a href="intro.shtml"><img src="images/intro-red.gif" align="absbottom" alt="introduction" border="0" width="92" height="25"></a></td>
+            <td align=center width="162"><a href="photo/index.shtml"><img
+src="images/photo-red.gif" align="absbottom" alt="photographic processes" border="0" width="162" height="25"></a></td>
+            
+        <td align=center width="91"><a href="conserve/index.shtml"><img
+src="images/conserve-red.gif" align="absbottom" alt="conservation" border=0 width="179" height="27"></a></td>
+            
+        <td align=center width="93"><a href="bib.shtml"><img src="images/bib-red.gif" align="absbottom" alt="bibliography" border=0 width="94" height="25"></a></td>
+          </tr>
+        </table>
+      
+    
+  </td>
+    <tr> 
+      
+  <td align="center" colspan="4">&nbsp; </td>
+    </tr>
+    <tr> 
+      
+  <td colspan="4"> 
+   
+    <table width="700" border="0" cellspacing="10" cellpadding="0" align="center">
+      <tr> 
+        <td align="left" valign="top" height="247"> 
+          <h2>Credits</h2>
+          <p>This exhibition was curated by Melissa A. Johnson, but would not 
+            have been possible without the support and assistance of a number 
+            of people. The <a href="http://www.princeton.edu/~rbsc/friends/" target="_blank">Friends 
+            of the Princeton University Library</a> and a Princeton University 
+            alumnus (Alexander D. Stuart, Class of 1972) provided the funding 
+            that made this work and exhibition possible. University Archivist 
+            Ben Primer, and Assistant Archivists Dan Linke and John Weeren, all 
+            at the <a href="http://www.princeton.edu/mudd" target="_blank">Seeley 
+            G. Mudd Manuscript Library</a> supported the project from the very 
+            beginning. Peter Bunnell, curator of photography at <a href="http://webware.princeton.edu/artmus/" target="_blank">The 
+            Art Museum Princeton University</a>, offered his valuable advice from 
+            early on and was singularly instrumental in obtaining additional funds 
+            without which this project could not have been carried out in its 
+            entirety. Paul Messier, of <a href="http://www.bosartconserv.com/index.htm" target="_blank">Boston 
+            Art Conservation</a>, agreed to take on the project as photograph 
+            conservator and performed all the cleaning, resealing and conservation 
+            work on these images. Ted Stanley, Head, Special Collections Conservation 
+            Unit and Paper Conservator at the Princeton University Library, offered 
+            valuable advice, instruction, and assistance with preservation issues, 
+            rehousing of the cased images, and repair of cases. Rachel Ban, John 
+            Foster and Janet Avery Dulles Fellow at the Seeley G. Mudd Manuscript 
+            Library, was responsible for the design and building of this web exhibition.</p>
+          </td>
+      </tr>
+    </table>
+        <!--#include virtual="/libraries/firestone/rbsc/mudd/online_ex/dags/include/footer.html" -->
+  
